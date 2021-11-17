@@ -24,7 +24,3 @@ Aplikacja powinna umożliwiać
 ⦁	rejestrować i planować grafiki pracowników (pracownicy nie są przypisani na sztywno do danego punktu aptecznego)
 ⦁	rejestrować sprzedaż danego pracownika w celu wykonania raportów sprzedażowych w celach premiowych 
 Dla uproszczenia przyjmijmy że nie realizujemy sprzedaży leków robionych na specjalne zamówienia (wymagające specjalnych uprawnień)
-<<<<<<< HEAD
-
-=======
->>>>>>> 413a243faea89ef7cc7f09ee350c83c19b58202a
