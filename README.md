@@ -1,9 +1,3 @@
-# apteka
-<<<<<<< HEAD
-=======
-Pharmacy chain database
->>>>>>> 413a243faea89ef7cc7f09ee350c83c19b58202a
-Zadanie do przygotowania
 Jestem właścicielem małej sieci aptek.  
 Wiemy że	
 Moja sieć  posiada  (w tej chwili) 4 punkty apteczne ale w przyszłości planowana jest rozbudowa.
